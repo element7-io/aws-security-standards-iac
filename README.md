@@ -5,8 +5,7 @@ This repository bundles all remediation instructions for
 ## Shortcomings of Security Hub
 Some findings barely solve the issue. Although it's hard for a tool like Security Hub to tackle or
 test some issues,a pointer to those could have been easily added to the documentation.
-"[RDS.10: IAM authentication should be configured for RDS instances]
-(https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-fsbp-controls.html#rds-10-remediation)"
+"[RDS.10: IAM authentication should be configured for RDS instances](https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-fsbp-controls.html#rds-10-remediation)"
 
 ## IaC: CloudFormation
 Where possible complete CloudFormation templates are provided. For other findings standalone
